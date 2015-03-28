@@ -23,4 +23,4 @@ To install it, find your [configuration directory](http://www.jetbrains.com/phps
  * Windows `c:\Users\My_User_Name\.WebIdeXX\config\colors\`
 
 ### Other Notes
-Oh also, I'm German. My English might be gruesome here and there. I  making a spelling mistake, like COLOR or COLOUR. With or wothout the U - the result is important for me. ;)
+Oh also, I'm German. My English might be gruesome here and there. I  making spelling mistakes, like COLOR or COLOUR. With or without the U - the result is important for me. ;)
