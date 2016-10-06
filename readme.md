@@ -14,7 +14,7 @@ Colorized uses [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) sinc
 
 ### Screenshots
 
-Version 2.0.0
+#### Version 2.0.0
 
 ![PHP Source in PhpStorm 9](./screenshots/colorized-dark-php-v2.png)
 
