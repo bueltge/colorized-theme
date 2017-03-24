@@ -24,7 +24,7 @@ In usage since PhpStorm 8 and currently tested, active in PhpStorm 2017.1.
 ### Download
 
 * [Version 1.0.0](https://github.com/bueltge/colorized-theme/releases/tag/1.0.0)
-* Version 2.* is currently the master branch and under maintenance. So you can clone this repository or use the link to [download the current master](https://github.com/bueltge/colorized-theme/archive/master.zip).
+* Active under maintaince is the master branch. So you can clone this repository or use the link to [download the current master](https://github.com/bueltge/colorized-theme/archive/master.zip).
 
 ### Installation
 
