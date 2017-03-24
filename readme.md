@@ -16,10 +16,10 @@ Colorized uses [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) sinc
 
 #### Version 3.0.0
 
-![PHP Source in PhpStorm 9](./screenshots/colorized-dark-php-v3.png)
+![PHP Source in PhpStorm 2017.1](./screenshots/colorized-dark-php-v3.png)
 
 ### Compatibility
-In usage since PhpStorm 8 and currently tested, active in PhpStorm 2016.2.
+In usage since PhpStorm 8 and currently tested, active in PhpStorm 2017.1.
 
 ### Download
 
