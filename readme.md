@@ -1,7 +1,9 @@
 # Colorized Theme
+
 My personal colorized theme.
 
 ### Background
+
 I like to work with nice UIs, but on the focus to work, create a result. This Theme is a mix from a lot of colours. To work day and night on the ideas.
 
 _Currently I have only the dark theme for the PhpStorm IDE._
@@ -9,6 +11,8 @@ _Currently I have only the dark theme for the PhpStorm IDE._
 * Colorized Dark for PhpStorm IDE
 
 ### Font
+
+With the change in January 2020, version 3.1.0 I use the Font Mono as default font and the Monospaced as fallback font. If you like Mono also to, download and install the font from the [Jetbrains page]([https://www.jetbrains.com/lp/mono/](https://www.jetbrains.com/lp/mono/).
 
 Colorized uses [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) since Version 2.0.0 as main font and it's highly recommend to install it. But you can use your favorite font and the install of Roboto Mono is not necessary.
 
@@ -19,6 +23,7 @@ Colorized uses [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) sinc
 ![PHP Source in PhpStorm 2017.1](./screenshots/colorized-dark-php-v3.png)
 
 ### Compatibility
+
 In usage since PhpStorm 8 and currently tested, active in PhpStorm 2017.1.
 
 ### Download
@@ -29,6 +34,7 @@ In usage since PhpStorm 8 and currently tested, active in PhpStorm 2017.1.
 ### Installation
 
 #### PhpStorm
+
 To install it, find your [configuration directory](http://www.jetbrains.com/phpstorm/webhelp/project-and-ide-settings.html) and then put it in the `/config/colors/` subfolder. Copy the `.icls` file to this folder.
 
 * Linux `~/.WebIdeXX/config/colors/`
