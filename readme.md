@@ -6,15 +6,17 @@ My personal colorized theme.
 
 I like to work with nice UIs, but on the focus to work, create a result. This Theme is a mix from a lot of colours. To work day and night on the ideas.
 
-_Currently I have only the dark theme for the PhpStorm IDE._
+_Currently I have only a dark theme for the PhpStorm IDE._
 
 * Colorized Dark for PhpStorm IDE
 
 ### Font
 
-With the change in January 2020, version 3.1.0 I use the Font Mono as default font and the Monospaced as fallback font. If you like Mono also to, download and install the font from the [Jetbrains page]([https://www.jetbrains.com/lp/mono/](https://www.jetbrains.com/lp/mono/).
+With the change in January 2020, version 3.1.0, I use the Font Mono as default main font and the Monospaced as fallback font. If you like Mono also to, download and install the font from the [Jetbrains page]([https://www.jetbrains.com/lp/mono/](https://www.jetbrains.com/lp/mono/).
 
-Colorized uses [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) since Version 2.0.0 as main font and it's highly recommend to install it. But you can use your favorite font and the install of Roboto Mono is not necessary.
+Before I uses [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) since Version 2.0.0 as main font.
+
+But you should use your favorite font and the install of Mono or Roboto Mono is not necessary.
 
 ### Screenshots
 
@@ -24,12 +26,10 @@ Colorized uses [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) sinc
 
 ### Compatibility
 
-In usage since PhpStorm 8 and currently tested, active in PhpStorm 2017.1.
+In usage since PhpStorm 8 and currently tested, active in PhpStorm 2019.3.
 
 ### Download
-
-* [Version 1.0.0](https://github.com/bueltge/colorized-theme/releases/tag/1.0.0)
-* Active under maintenance is the master branch. So you can clone this repository or use the link to [download the current master](https://github.com/bueltge/colorized-theme/archive/master.zip).
+* All releases you will find on the [release page](https://github.com/bueltge/colorized-theme/releases).
 
 ### Installation
 
@@ -41,7 +41,7 @@ To install it, find your [configuration directory](http://www.jetbrains.com/phps
 * Mac OS `~/Library/Preferences/WebIdeXXconfig/colors/`
 * Windows `c:\Users\My_User_Name\.WebIdeXX\config\colors\`
 
-Now start, restart PhpStorm and switch to the Colorized Dark theme. You find it on _File_ - _Settings_ - _Editor_ - _Colors & Fonts_ . Set also your favorite font here, sub-item _Font_.
+Now start, restart PhpStorm and switch to the Colorized Dark theme. You find it on _File_ - _Settings_ - _Editor_ - _Color Scheme_ . Set also your favorite font here, sub-item _Color Scheme Font_.
 
 ### License
 
