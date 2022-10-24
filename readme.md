@@ -4,7 +4,7 @@ My personal colorized theme.
 
 ### Background
 
-I like to work with nice UIs, but on the focus to work, create a result. This Theme is a mix of several colors. To work day and night on the ideas.
+I like to work with nice UIs, but with the focus to work and create a result. This theme mixes several colors to work day and night on the ideas.
 
 Currently, I have only a dark theme for the PhpStorm IDE.
 
@@ -12,11 +12,11 @@ Currently, I have only a dark theme for the PhpStorm IDE.
 
 ### Font
 
-With the change in January 2020, version 3.1.0, I use the Font Mono as the default main font and the Monospaced as a fallback font. If you like Mono also, download and install the font from the [Jetbrains page]([https://www.jetbrains.com/lp/mono/](https://www.jetbrains.com/lp/mono/).
+With the change in January 2020, version 3.1.0, I used Font Mono as the default main font and Monospaced as a fallback font. If you like Mono also, download and install the font from the [Jetbrains page]([https://www.jetbrains.com/lp/mono/](https://www.jetbrains.com/lp/mono/).
 
-Before, I used [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) since Version 2.0.0 as main font.
+Before, I used [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) since Version 2.0.0 is the primary font.
 
-But you should use your favorite font and the install of Mono or Roboto Mono is not necessary.
+But you should use your favorite font, and the installation of Mono or Roboto Mono is unnecessary.
 
 ### Screenshots
 
@@ -49,4 +49,4 @@ This code is licensed under the [MIT License](./LICENSE).
 
 ### Other Notes
 
-Oh also, I'm German. My English might be gruesome here and there.
+Oh, also, I'm German. My English might be gruesome here and there.
